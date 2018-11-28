@@ -1,0 +1,11 @@
+C:\Users\kadrinx\source\repos\FizzBuzzExercise\FizzBuzzExercise\bin\Debug\netcoreapp2.1\FizzBuzzExercise.deps.json
+C:\Users\kadrinx\source\repos\FizzBuzzExercise\FizzBuzzExercise\bin\Debug\netcoreapp2.1\FizzBuzzExercise.runtimeconfig.json
+C:\Users\kadrinx\source\repos\FizzBuzzExercise\FizzBuzzExercise\bin\Debug\netcoreapp2.1\FizzBuzzExercise.runtimeconfig.dev.json
+C:\Users\kadrinx\source\repos\FizzBuzzExercise\FizzBuzzExercise\bin\Debug\netcoreapp2.1\FizzBuzzExercise.dll
+C:\Users\kadrinx\source\repos\FizzBuzzExercise\FizzBuzzExercise\bin\Debug\netcoreapp2.1\FizzBuzzExercise.pdb
+C:\Users\kadrinx\source\repos\FizzBuzzExercise\FizzBuzzExercise\obj\Debug\netcoreapp2.1\FizzBuzzExercise.csprojAssemblyReference.cache
+C:\Users\kadrinx\source\repos\FizzBuzzExercise\FizzBuzzExercise\obj\Debug\netcoreapp2.1\FizzBuzzExercise.csproj.CoreCompileInputs.cache
+C:\Users\kadrinx\source\repos\FizzBuzzExercise\FizzBuzzExercise\obj\Debug\netcoreapp2.1\FizzBuzzExercise.AssemblyInfoInputs.cache
+C:\Users\kadrinx\source\repos\FizzBuzzExercise\FizzBuzzExercise\obj\Debug\netcoreapp2.1\FizzBuzzExercise.AssemblyInfo.cs
+C:\Users\kadrinx\source\repos\FizzBuzzExercise\FizzBuzzExercise\obj\Debug\netcoreapp2.1\FizzBuzzExercise.dll
+C:\Users\kadrinx\source\repos\FizzBuzzExercise\FizzBuzzExercise\obj\Debug\netcoreapp2.1\FizzBuzzExercise.pdb

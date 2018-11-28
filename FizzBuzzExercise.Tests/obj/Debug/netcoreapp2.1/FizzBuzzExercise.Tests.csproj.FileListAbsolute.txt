@@ -1,0 +1,17 @@
+C:\Users\kadrinx\source\repos\FizzBuzzExercise\FizzBuzzExercise.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\kadrinx\source\repos\FizzBuzzExercise\FizzBuzzExercise.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\kadrinx\source\repos\FizzBuzzExercise\FizzBuzzExercise.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\kadrinx\source\repos\FizzBuzzExercise\FizzBuzzExercise.Tests\bin\Debug\netcoreapp2.1\FizzBuzzExercise.Tests.deps.json
+C:\Users\kadrinx\source\repos\FizzBuzzExercise\FizzBuzzExercise.Tests\bin\Debug\netcoreapp2.1\FizzBuzzExercise.Tests.runtimeconfig.json
+C:\Users\kadrinx\source\repos\FizzBuzzExercise\FizzBuzzExercise.Tests\bin\Debug\netcoreapp2.1\FizzBuzzExercise.Tests.runtimeconfig.dev.json
+C:\Users\kadrinx\source\repos\FizzBuzzExercise\FizzBuzzExercise.Tests\bin\Debug\netcoreapp2.1\FizzBuzzExercise.Tests.dll
+C:\Users\kadrinx\source\repos\FizzBuzzExercise\FizzBuzzExercise.Tests\bin\Debug\netcoreapp2.1\FizzBuzzExercise.Tests.pdb
+C:\Users\kadrinx\source\repos\FizzBuzzExercise\FizzBuzzExercise.Tests\bin\Debug\netcoreapp2.1\FizzBuzzExercise.dll
+C:\Users\kadrinx\source\repos\FizzBuzzExercise\FizzBuzzExercise.Tests\bin\Debug\netcoreapp2.1\FizzBuzzExercise.pdb
+C:\Users\kadrinx\source\repos\FizzBuzzExercise\FizzBuzzExercise.Tests\obj\Debug\netcoreapp2.1\FizzBuzzExercise.Tests.csprojAssemblyReference.cache
+C:\Users\kadrinx\source\repos\FizzBuzzExercise\FizzBuzzExercise.Tests\obj\Debug\netcoreapp2.1\FizzBuzzExercise.Tests.csproj.CoreCompileInputs.cache
+C:\Users\kadrinx\source\repos\FizzBuzzExercise\FizzBuzzExercise.Tests\obj\Debug\netcoreapp2.1\FizzBuzzExercise.Tests.AssemblyInfoInputs.cache
+C:\Users\kadrinx\source\repos\FizzBuzzExercise\FizzBuzzExercise.Tests\obj\Debug\netcoreapp2.1\FizzBuzzExercise.Tests.AssemblyInfo.cs
+C:\Users\kadrinx\source\repos\FizzBuzzExercise\FizzBuzzExercise.Tests\obj\Debug\netcoreapp2.1\FizzBuzzExercise.Tests.csproj.CopyComplete
+C:\Users\kadrinx\source\repos\FizzBuzzExercise\FizzBuzzExercise.Tests\obj\Debug\netcoreapp2.1\FizzBuzzExercise.Tests.dll
+C:\Users\kadrinx\source\repos\FizzBuzzExercise\FizzBuzzExercise.Tests\obj\Debug\netcoreapp2.1\FizzBuzzExercise.Tests.pdb
